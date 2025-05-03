@@ -1,16 +1,3 @@
-### HELLO 👋
+Aspiring Software Engineer | MERN Stack Developer | Tech Enthusiast
 
-<!--
-**AaronPeterViju/aaronpeterviju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on TECHMAGHI
-- 🌱 I’m currently learning CODING
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about CODING
-- 📫 How to reach me: ...
-- 😄 Pronouns: CODE KING
-- ⚡ Fun fact: ...
--->
+I am a third-year Computer Science and Engineering student with a strong passion for building impactful software solutions. Proficient in both front-end and back-end development, I specialize in the MERN stack and enjoy working on real-world projects that solve meaningful problems. I'm constantly seeking opportunities to grow, collaborate, and create exceptional products that users love.
